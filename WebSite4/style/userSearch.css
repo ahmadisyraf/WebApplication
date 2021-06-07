@@ -1,0 +1,75 @@
+﻿body {
+}
+
+* {
+    margin: 0px 0 0 0;
+}
+
+.style1 {
+    padding-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+    .style1 label {
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .style1 #bold {
+        text-align: center;
+        font-family: 'Source Sans Pro', sans-serif;
+        font-weight: bold;
+        font-size: 28px;
+    }
+
+    .style1 #Button1 {
+        width: 70px;
+        margin-top: 20px;
+        height: 30px;
+        font-size: 14px;
+        background-color: black;
+        color: white;
+        border: none;
+        outline: none;
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+
+.top-nav {
+    background-color: black;
+    width: 100%;
+    overflow: hidden;
+    position: fixed;
+}
+
+    .top-nav p {
+        color: white;
+        font-weight: bold;
+        font-size: 18px;
+        margin-top: 25px;
+        margin-left: 30px;
+        font-family: 'Press Start 2P', cursive;
+        float: left;
+    }
+
+    .top-nav #HyperLink2 {
+        float: right;
+        padding: 25px 16px;
+        font-size: 18px;
+        color: white;
+        height: 100%;
+        text-align: center;
+        font-family: 'Source Sans Pro', cursive;
+        overflow: hidden;
+        text-decoration: none;
+    }
+
+
+        .top-nav #HyperLink2:hover {
+            background-color: grey;
+        }
+
+form #GridView1 {
+    margin: auto;
+}
